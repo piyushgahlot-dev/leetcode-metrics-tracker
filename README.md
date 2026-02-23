@@ -1,2 +1,2 @@
 # leetcode-metrics-tracker
-A web app that fetches and visualizes live LeetCode user metrics using GraphQL and JavaScri
+A web app that fetches and visualizes live LeetCode user metrics using GraphQL and JavaScript
